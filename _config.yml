@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: Diocese Map
-description: Visualize the locations of the different dioceses present in the datbase
+title: Title heatmap
+description: Relation between the titles of the consecrating and consecrated bishops
+gems:
+  - jekyll-gzip
